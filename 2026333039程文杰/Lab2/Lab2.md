@@ -180,8 +180,8 @@ echo '学号姓名：2026333001张三；Lab2'
 
 | 工具 | 版本第一行 | 是否可用；若不可用写修复方法 |
 | :--- | :--- | :--- |
-| gcc |gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0 |是 |
-| strace |strace -- version 6.8 |是 |
+| gcc |gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0 |可用 |
+| strace |strace -- version 6.8 |可用 |
 
 ---
 
